@@ -2,7 +2,7 @@
 Whatsapp chat analyzer analyzes chat and provides insights. To run it on your machine make sure you have these prerequisites:
 chat's format should be in 24-hour format
 Runs these pythons files either on Pycharm or Visual Code Studio
-You must have installed these dependencies:
+You must install these dependencies:
 streamlit,
 matplotlib
 seaborn,
@@ -11,5 +11,4 @@ urlextract,
 wordcloud,
 collections
 emoji,
-pandas,
 re
